@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case setting forth His Majesties right to the manour of Newington-Barrow in the county of Middlesex.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18741</idno><idno type="EEBO-CITATION">99885921</idno>
+  <idno type="VID">188517</idno>
+  <idno type="EEBO-PROQUEST">2240887168</idno>
+  
+            <idno type="STC">Wing C1203</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.16[15]</idno>
+            <idno type="STC">ESTC R225193</idno>
+            <idno type="PROQUEST">ocm99885921</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885921e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188517)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:1[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case setting forth His Majesties right to the manour of Newington-Barrow in the county of Middlesex.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Crown lands --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:188517:1"/>
+            <head>
+               <hi>THE CASE</hi> Setting forth His MAJESTIES <hi>RIGHT</hi> to the MANOƲR of <hi>NEWINGTON-BARROW</hi> in the County of MIDDLESEX.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Bout the begining of His late Majesties Reign, Sir <hi>Allen Apsley</hi> Knight deceased, then Victualler of the Navy did Petition his said Majesty and Privy-Council for an Assurance of Land from His said Majesty, for 20000 <hi>l.</hi> part of an Arrear in the said Petition mentioned, to be then due from His said Majesty to the said Sir <hi>Allen Apsly</hi> and his Creditors, for Victuals and Provisions for His said Majesties Ships and Fleet: And, His said late Majesty and Council did thereupon agree, and afterwards Contract with the said Sir <hi>Allen Apsly</hi> for the Passing of 714 <hi>l.</hi> 5 <hi>s.</hi> 8 <hi>d.</hi> ½. per Annum, for satisfaction of the said Summ of 20000 <hi>l.</hi> for which the said Sir <hi>Allen Apsly</hi> stood at that time ingaged to his said Creditors for the Provisions aforesaid.<note n="(a)" place="margin">
+                  <p>Petition re<g ref="char:EOLhyphen"/>cited in the Order of Council, Dat. 6th. Febr. <hi>1627.</hi>
+                  </p>
+                  <p>Order dat. 7th of July.</p>
+                  <p>Contract. Dat. <hi>15. Aug. 1628.</hi>
+                  </p>
+               </note>
+            </p>
+            <p>In pursuance whereof His said Majesty by Letters Patents dated 15 <hi>Sept.</hi> 5<seg rend="sup">to</seg>
+               <hi>Regni sui,</hi> did Grant and Convey <hi>Inter alia,</hi> the said Mannor of <hi>Newington Barrow</hi> to persons in trust for the said Sir <hi>Allen Apsly</hi> and his Heirs.<note n="(b)" place="margin">Letters Patents, dat. 15th Sept. <hi>1629.</hi>
+               </note>
+            </p>
+            <p>This Grant was so made by His said late Majesty for the Purposes aforesaid, upon Presumption, That the said Sir <hi>Allen Apsly</hi> had not then Mony enough of His said Majesty in his hands to discharge the said 20000 <hi>l.</hi> for which he stood so ingaged to his said Creditors for the Provisions aforesaid, although it did afterwards appear by the Accompts of the said Sir <hi>Allen Apsly</hi> passed in the Exchequer, That, at the time of the said Grant, the said Sir <hi>Allen Apsly</hi> had otherwise received of His said Majesty (which was then remaining in his hands unaccompted for) above 20000 <hi>l</hi> more then would have satisfied the said 20000 <hi>l.</hi> for which he stood so ingaged for the Provisions aforesaid; which was never afterwards Discharged, but at the said Sir <hi>Allens</hi> death was increased to near 40000 <hi>l.</hi> which (besides the value of the said Mannour and Lands never Accompted for) Remains a Debt in Arrear to His said Majesty upon the said Sir <hi>Allen Apslyes</hi> Accomp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at this day.<note n="(c)" place="margin">
+                  <p>Order of Council, dat. 3d. of No<g ref="char:EOLhyphen"/>vember, <hi>1637</hi>
+                  </p>
+                  <p>Sir Allen Apslyes Ac<g ref="char:EOLhyphen"/>compts in the Exchequer, for the years <hi>1627</hi> and <hi>1629.</hi>
+                  </p>
+               </note>
+            </p>
+            <p>That notwithstanding the said Arrear, and Grant of the said Mannour, <hi>&amp;c.</hi> for the purposes aforesaid, the said Sir <hi>Allen Apsley</hi> dy<g ref="char:EOLhyphen"/>ing before the said Creditors were paid, the said Creditors <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere left without Remedy by any ordinary course of Law, to recover their said Debts against the said Sir <hi>Allen Apslyes</hi> Trustees for the said Lands, because the Trust reposed by His said Majesty in the said Sir <hi>Allen Apsly</hi> for payment thereof, nor the said Creditors, nor their respective Debts were not particularly expressed in the Body of the said Grant, contrary to the Purport of the said Sir <hi>Allens</hi> Petition, and the Agreement and Intent of His said Majesty and Council thereupon for Passing thereof.</p>
+            <p>Therefore, upon the Humble Petition of the said Creditors to His late Majesty and Council for Relief against <hi>Thomas Austin</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Cheesmonger, a Creditor of the said Sir <hi>Allen Apsly,</hi> (and one of his Patentees for <hi>Gualtres</hi> Forrest) who pretended to have pur<g ref="char:EOLhyphen"/>chased the said Mannour of <hi>Newington Barrow</hi> from the said Sir <hi>Allen Apsly</hi> and his Trustees; the same was referred to the Examina<g ref="char:EOLhyphen"/>tion of Sir <hi>John Banckes</hi> His said Majesties then Atturney-General, by whose Report thereof, and by the said <hi>Austins</hi> own Accompt up<g ref="char:EOLhyphen"/>on Oath, taken by the then Auditors of the Imprest, and Reported by them to His said late Majesty and Council: and, upon several great Debates before His said late Majesty and Council, in the presence of the said <hi>Austin,</hi> assisted with Counsel Learned in the Law, It did appear, that the whole Mony for which the said <hi>Austin</hi> pretended the said Mannor of <hi>Newington Barrow</hi> was so conveyed unto him, was but 2500 <hi>l.</hi> And, that the same was part of a summ of 3000 <hi>l.</hi> formerly due to the said <hi>Austin</hi> for Victuals delivered for the use of the Navy. Which said 3000 <hi>l.</hi> was (with other Monyes) secured to the said <hi>Austin</hi> and others by a Mortgage of <hi>Gualtres</hi> Forrest in <hi>Yorkshire,</hi> before the said <hi>Mannor</hi> was so conveyed unto him, and afterwards fully paid unto him out of the same: So that it did thereby appear to His said Majesty and Council, that the said <hi>Tho. Austin</hi> had not really <hi>&amp; bona fide</hi> paid one penny Consideration for the said Mannor of <hi>Newington Barrow.</hi> Whereupon the said <hi>Thomas Austin</hi> was expresly commanded by several Orders of His said late Majesty and Council, to Convey over the said Mannor of <hi>Newington Barrow</hi> to the use of the said Creditors, towards the satisfaction of their said Debts; But, the said <hi>Austin</hi> taking advantage of the Wars suddenly intervening, stood out in contempt of the said Or<g ref="char:EOLhyphen"/>ders, and by meanes thereof. he, and those claiming from him, have ever since wrongfully deteined the same from His said late Ma<g ref="char:EOLhyphen"/>jesty, His present Majesty, and the said Creditors.<note n="(d)" place="margin">
+                  <p>Atturny Generals Re<g ref="char:EOLhyphen"/>port in <hi>1638,</hi> confirmed by Order of Council, da<g ref="char:EOLhyphen"/>ted 23d of November, <hi>1638,</hi> and Auditors Certificate.</p>
+                  <p>Orders of Council, dat. 6th March <hi>1638,</hi> and the 26th of April <hi>1639,</hi> and the 19th of July, <hi>1639.</hi>
+                  </p>
+               </note>
+            </p>
+            <p>Since His Majesties happy Restauration, this whole Matter, and <hi>Austins</hi> Title to this Mannor, was fully debated before a Commit<g ref="char:EOLhyphen"/>tee of the Honourable House of <hi>Commons;</hi> and, after all that could be alledged by the present pretenders, <hi>Tho. Austin</hi> and his Guardi<g ref="char:EOLhyphen"/>an, assisted with Counsel Learned in the Law, upon the said Committees Report thereof to the House, leave was given by the House for a Bill to be brought in for the said Creditors Relief, which was accordingly done the next Sessions, but the Parliament was Ad<g ref="char:EOLhyphen"/>journed, and afterwards Prorogued, before it could be finished.<note n="(e)" place="margin">Committees Report, and Votes of Par<g ref="char:EOLhyphen"/>liament, 2d of March <hi>1664.</hi>
+               </note>
+            </p>
+            <p>Since that time the said Creditors, by reason of their long sufferings and delayes, and the vast charges and expences they have been at for so many years in seeking Relief in the Premisses, being for the most part utterly undone, and altogether unable any longer to maintain so chargeable a Prosecution, have Humbly Supplicated His Majesty to make payment of their said Debts some other way, and to accept of all their Equitable Right and Interest in and to the Premisses, which His Majesty hath Graciously accepted, and thereupon passed unto them His Royal Word and Promise for their speedy satisfaction.</p>
+            <p>Also this business by Special Order of His Majesty in Council, hath been lately Referred to the Right Honourable the Lords Com<g ref="char:EOLhyphen"/>missioners of the Treasury; and, by Order of Reference from their Lordships, the whole Matter of Fact hath been Examined, and Sta<g ref="char:EOLhyphen"/>ted by Sir <hi>Charles Harbord</hi> His Majesties Surveyor General, and the most proper Remedy by him Proposed for recovering the said Mannor, is by Bill in Parliament.</p>
+            <p>Upon another Reference thereof from His Majesty and their Lordships, to Mr. Attourny-Gen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>al; the same Remedy for His Majesty to recover the same is by him also proposed and directed.<note n="(f)" place="margin">
+                  <p>Order, da<g ref="char:EOLhyphen"/>ted <hi>20</hi> of Oct<g ref="char:EOLhyphen"/>ober, <hi>1669.</hi>
+                  </p>
+                  <p>Sir <hi>Charles Harbords</hi> Report, dated 20th of De<g ref="char:EOLhyphen"/>cember <hi>69.</hi>
+                  </p>
+               </note>
+            </p>
+            <p>Wherefore this Bill is accordingly brought in for vesting the said Mannor of <hi>Newington Barrow</hi> in His Majesty upon the Reasons aforesaid.</p>
+            <p>This way of Proceeding cannot be easily drawn into Example, to the prejudice of others, that have Grants from the K<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cause 'tis confidently supposed there is no other Grant extant of the same nature.</p>
+            <p>Nor can this be judged to be any surprize upon the said <hi>Austin,</hi> because his Title hath been in Dispute by a continu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (unless during the time of the Civil Wars) for above thirty years, and could not be determined by Course of<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> above mentioned.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
